@@ -1,0 +1,41 @@
+body {
+  padding: 20px;
+}
+
+#checkout {
+  background: linear-gradient(#DEDEDE, #ADADAD);
+  border-radius: 10px;
+  font-family: Arial;
+  vertical-align: middle;
+  color: #474747;
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 15px 50px 15px 50px;
+  border: solid #616161 2px;
+  position: relative;
+  box-shadow:
+  0 0 0 5px hsl(0, 0%, 80%);
+}
+
+#checkout:after {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  right: -10px;
+  bottom: -10px;
+  background: #666666;
+  z-index: -1;
+  border-radius: 20px;
+
+}
+
+
+background: url("../images/buttonbg.png") no-repeat scroll 0 0 transparent;
+ background:url() no-repeat;
+ 0 0 transparent;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/a/ab/Grey_Star.gif);
+
+
+    
